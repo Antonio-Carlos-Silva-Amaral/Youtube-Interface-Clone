@@ -46,12 +46,12 @@ Navegue até a pasta do projeto no terminal.
 
 Digite o seguinte comando para instalar as dependências do projeto:
 
-npm install
+`npm install`
 
 # Executando o projeto
 Na pasta do projeto, digite o seguinte comando para iniciar o servidor de desenvolvimento:
 
-npm start
+`npm start`
 
 Abra o navegador e digite o seguinte endereço:
 
