@@ -30,6 +30,7 @@ Este é um projeto de clone da interface do YouTube utilizando React e TypeScrip
 Antes de começar, certifique-se de que possui as seguintes ferramentas instaladas em sua máquina:
 
 Node.js
+
 Git
 # Clonando o repositório
 Abra o terminal do seu sistema operacional e navegue até o diretório onde deseja clonar o repositório.
