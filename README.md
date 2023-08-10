@@ -37,7 +37,7 @@ Abra o terminal do seu sistema operacional e navegue até o diretório onde dese
 
 Digite o seguinte comando para clonar o repositório:
 
-git clone https://github.com/usuario/repositorio.git
+git clone `git clone https://github.com/seu-usuario/seu-projeto.git`
 
 Substitua usuario e repositorio pelos nomes de usuário e repositório do do autor do projeto no GitHub.
 
@@ -55,7 +55,7 @@ npm start
 
 Abra o navegador e digite o seguinte endereço:
 
-http://localhost:3000
+`http://localhost:3000`
 
 Certifique-se de que a porta 3000 esteja livre em sua máquina.
 
